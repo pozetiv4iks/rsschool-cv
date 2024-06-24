@@ -23,7 +23,6 @@ I am a beginner programmer who is interested in software development. I am also 
   }
 }
 
-// Использование функции
 const number = 5;
 const factorial = calculateFactorial(number);
 console.log(`The factorial of ${number} is ${factorial}`);`
