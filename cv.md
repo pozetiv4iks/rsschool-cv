@@ -13,3 +13,17 @@ I am a beginner programmer who is interested in software development. I am also 
 - Frameworks/libraries: React, Node.js
 - Version control systems: Git
 - Development Tools: Sublime Text, Visual Studio Code, Postman
+
+## Code example
+`function calculateFactorial(n) {
+  if (n === 0) {
+    return 1;
+  } else {
+    return n * calculateFactorial(n - 1);
+  }
+}
+
+// Использование функции
+const number = 5;
+const factorial = calculateFactorial(number);
+console.log(`The factorial of ${number} is ${factorial}`);`
