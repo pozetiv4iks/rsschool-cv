@@ -34,3 +34,8 @@ console.log(`The factorial of ${number} is ${factorial}`);
 Projects within the framework of training:
 - Development of a training application in React using hooks and APIs
 - Internship at ethacarsystem
+
+## Education
+- Minsk State Technological College branch of BNTU software engineer
+- HTML Academy
+- IT-Incubator sandbox
