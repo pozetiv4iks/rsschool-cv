@@ -15,7 +15,8 @@ I am a beginner programmer who is interested in software development. I am also 
 - Development Tools: Sublime Text, Visual Studio Code, Postman
 
 ## Code example
-```function calculateFactorial(n) {
+```javascript
+function calculateFactorial(n) {
   if (n === 0) {
     return 1;
   } else {
