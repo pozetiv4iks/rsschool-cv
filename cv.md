@@ -15,7 +15,8 @@ I am a beginner programmer who is interested in software development. I am also 
 - Development Tools: Sublime Text, Visual Studio Code, Postman
 
 ## Code example
-```javascript
+```
+
 function calculateFactorial(n) {
   if (n === 0) {
     return 1;
@@ -26,4 +27,5 @@ function calculateFactorial(n) {
 
 const number = 5;
 const factorial = calculateFactorial(number);
-console.log(`The factorial of ${number} is ${factorial}`);```
+console.log(`The factorial of ${number} is ${factorial}`);
+```
