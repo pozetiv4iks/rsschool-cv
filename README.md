@@ -1,6 +1,3 @@
-# Stepan Duleuski
+# My CV
 
-## Contacts:
-- Email: tepan.ewqazsx@gmail.com
-- Телефон: +375 29 17104-92
-- LinkedIn: [Stepan Duleuski](https://www.linkedin.com/in/stepan-dylevski-36ab232b9/)
+- [CV](https://pozetiv4iks.github.io/rsschool-cv/cv)
