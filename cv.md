@@ -39,3 +39,6 @@ Projects within the framework of training:
 - Minsk State Technological College branch of BNTU software engineer
 - HTML Academy
 - IT-Incubator sandbox
+
+## English language
+Level of English - Intermediate (B1). While living in Poland, I communicated in English every day, where I used English in everyday work. Previously, I studied English in courses for more than 5 years.
