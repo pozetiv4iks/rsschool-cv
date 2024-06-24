@@ -29,3 +29,8 @@ const number = 5;
 const factorial = calculateFactorial(number);
 console.log(`The factorial of ${number} is ${factorial}`);
 ```
+
+## Experience
+Projects within the framework of training:
+- Development of a training application in React using hooks and APIs
+- Internship at ethacarsystem
